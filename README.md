@@ -15,7 +15,7 @@ This project is a microservice for generating PDF files from HTML content using 
 - NestJS framework set up
 
 ### Installation
-- Clone the repository:
+- Clone the repository
 =======
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
